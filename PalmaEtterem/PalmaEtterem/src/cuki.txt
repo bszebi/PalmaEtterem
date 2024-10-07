@@ -1,0 +1,2 @@
+Fagyi;Krémes;True;1100;db
+Milán;Szandai;True;169;kg

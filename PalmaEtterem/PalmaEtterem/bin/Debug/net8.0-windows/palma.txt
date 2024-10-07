@@ -1,0 +1,6 @@
+Fagyi;Krémes sütemény;True;1400;db
+Fagyi;Krémes;False;1400;db
+Fagyi;Krémes;False;1400;db
+Fagyi;Krémes;False;1400;db
+Fagyi;Krémes;False;1400;db
+Fagyi;Krémes;False;1400;db
